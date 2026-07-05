@@ -12,6 +12,7 @@ public class DemoApplication {
 		System.out.println("Logging1");
 		System.out.println("Logging2");
 		System.out.println("Logging3");
+		System.out.println("Logging4 FROM MAIN");
 	}
 
 }
